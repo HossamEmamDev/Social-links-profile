@@ -85,7 +85,7 @@ ul li:hover {
 }
 @media screen and (max-width : 600px) {
     .container {
-        max-width: ;
+        max-width: 280px;
     }
     
     .social-links ul {
